@@ -1,1 +1,1 @@
-# hehezuStuNotes.github.io
+猜数字游戏，windows下运行html文件即可
